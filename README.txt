@@ -17,4 +17,16 @@ III. Parameter Learning
  2. Gradient Descent Intuition 
  3. Gradient Descent for Linear Regression
 
+IV. Linear Algebra Review
+ 1. Matrices and Vectors
+ 2. Addition and Scalar Multiplication
+ 3. Matrix Vector Multiplication
+ 4. Matrix Matrix Multiplication
+ 5. Matrix Multiplication Properties
+ 6. Inverse and Transpose 
+
+# Search and read some tutorials concerning Matlab/Octave 
+# to prepare for next week and exercise 1. 
+
+
  
